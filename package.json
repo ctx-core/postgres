@@ -2,6 +2,7 @@
 	"name": "@ctx-core/postgres",
 	"version": "4.1.33",
 	"description": "ctx-core postgres",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
