@@ -2,9 +2,9 @@
 	"name": "@ctx-core/postgres",
 	"version": "4.1.42",
 	"description": "ctx-core postgres",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
