@@ -32,7 +32,7 @@
 		"@ctx-core/array": "^15.5.28"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.6"
+		"typescript": "^3.9.7"
 	},
 	"gitHead": "db91f9fbc5367a6b8d9592d8e4578666386508bb"
 }
