@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "4.1.60",
+	"version": "4.1.61",
 	"description": "ctx-core postgres",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -29,7 +29,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^16.0.14"
+		"@ctx-core/array": "^16.0.15"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
