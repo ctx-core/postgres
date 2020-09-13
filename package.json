@@ -2,6 +2,20 @@
 	"name": "@ctx-core/postgres",
 	"version": "4.1.67",
 	"description": "ctx-core postgres",
+	"keywords": [
+		"ctx-core",
+		"postgres"
+	],
+	"homepage": "https://github.com/ctx-core/postgres#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/postgres/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/postgres/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
 	"main": "./index.js",
 	"module": "./index.js",
 	"types": "./index.ts",
@@ -9,31 +23,17 @@
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
 		"compile": "tsc -b",
-		"prepublishOnly": "npm run compile",
-		"exec": "$@"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/postgres/issues"
-	},
-	"keywords": [
-		"ctx-core",
-		"postgres"
-	],
-	"author": "Brian Takita",
-	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/postgres/issues"
-	},
-	"homepage": "https://github.com/ctx-core/postgres#readme",
-	"publishConfig": {
-		"access": "public"
+		"exec": "$@",
+		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^17.0.4"
+		"@ctx-core/array": "workspace:*"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "5fbf87af8aea12b8b2aaf3e75ae6de0010cbf14e"
 }
