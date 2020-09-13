@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "4.1.66",
+	"version": "4.1.67",
 	"description": "ctx-core postgres",
 	"main": "./index.js",
 	"module": "./index.js",
