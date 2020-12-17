@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 5.1.0
+
+### Minor Changes
+
+- \_a1**named_param->\_named_param_a1,\_sql**set**a1**param->\_param_a1_set_sql,sadd\_\_named_param->sadd_named_param
+
 ## 5.0.31
 
 ### Patch Changes
