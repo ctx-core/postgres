@@ -1,8 +1,8 @@
 import { map } from '@ctx-core/array'
-export function _named_param_a1(a1__param) {
+export function _named_param_a1(param_a1: string[]) {
 	return (
 		map(
-			a1__param,
+			param_a1,
 			(_, i)=>`$${i + 1}`
 		)
 	)
