@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 6.0.13
+
+### Patch Changes
+
+- @ctx-core/array@20.1.10
+
 ## 6.0.12
 
 ### Patch Changes
