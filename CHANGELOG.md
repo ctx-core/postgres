@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 6.0.21
+
+### Patch Changes
+
+- typescript: ^4.2.2 -> ^4.2.3
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.1.18
+
 ## 6.0.20
 
 ### Patch Changes
