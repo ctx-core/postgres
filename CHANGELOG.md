@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 6.0.25
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.2.1
+
 ## 6.0.24
 
 ### Patch Changes
