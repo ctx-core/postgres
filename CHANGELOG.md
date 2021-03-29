@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 6.0.26
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.2.2
+
 ## 6.0.25
 
 ### Patch Changes
