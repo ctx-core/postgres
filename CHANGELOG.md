@@ -1,5 +1,16 @@
 # @ctx-core/postgres
 
+## 6.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.4.0
+
 ## 6.1.3
 
 ### Patch Changes
