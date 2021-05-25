@@ -1,5 +1,16 @@
 # @ctx-core/postgres
 
+## 6.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/array@20.5.0
+
 ## 6.2.2
 
 ### Patch Changes
