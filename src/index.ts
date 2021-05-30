@@ -1,3 +1,3 @@
-export * from './_named_param_a1'
-export * from './_param_a1_set_sql'
+export * from './named_param_a_'
+export * from './param_a_set_sql_'
 export * from './sadd_named_param'
