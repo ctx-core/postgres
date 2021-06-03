@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 7.0.5
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.0.4
 
 ### Patch Changes
