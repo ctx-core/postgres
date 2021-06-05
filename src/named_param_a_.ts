@@ -1,5 +1,5 @@
 import { map } from '@ctx-core/array'
-export function named_param_a_(param_a: string[]) {
+export function named_param_a_(param_a:any[]) {
 	return (
 		map(
 			param_a,

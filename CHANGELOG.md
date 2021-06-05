@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 7.0.7
+
+### Patch Changes
+
+- fix: param*a_set_sql*,sadd_named_param: type matches possible pg query types
+
 ## 7.0.6
 
 ### Patch Changes

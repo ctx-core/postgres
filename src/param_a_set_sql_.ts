@@ -1,8 +1,10 @@
 import { map } from '@ctx-core/array'
-export function param_a_set_sql_(param_a1: string[], named_param_a: string[]) {
+export function param_a_set_sql_<I extends any[] = any[]>(
+	param_a:string[], named_param_a:I
+) {
 	return (
-		map(param_a1,
-			(param: string, i)=>`${param}=${named_param_a[i]}`
+		map(param_a,
+			(param:string, i)=>`${param}=${named_param_a[i]}`
 		).join(', ')
 	)
 }
