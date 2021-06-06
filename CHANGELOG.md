@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 7.0.12
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+- Updated dependencies [undefined]
+  - @ctx-core/array@21.2.6
+
 ## 7.0.11
 
 ### Patch Changes

@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "7.0.11",
+	"version": "7.0.12",
 	"description": "ctx-core postgres",
 	"keywords": [
 		"ctx-core",
@@ -21,13 +21,13 @@
 	"types": "./dist/index.d.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
+		"clean": "rm -f tsconfig.tsbuildinfo && rm -f dist/**/*.js && rm -f dist/**/*.d.ts && rm -f dist/**/*.map",
 		"compile": "./node_modules/.bin/tsc -b .",
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^21.2.5"
+		"@ctx-core/array": "workspace:^21.2.6"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.2"
