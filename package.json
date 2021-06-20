@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "8.0.6",
+	"version": "8.0.7",
 	"description": "ctx-core postgres",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepare": "npm run clean && npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^22.0.7"
+		"@ctx-core/array": "workspace:^22.0.8"
 	},
 	"devDependencies": {
 		"typescript": "^4.3.4"

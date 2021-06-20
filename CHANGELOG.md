@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 8.0.7
+
+### Patch Changes
+
+- fix: deploying \*.js files
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.8
+
 ## 8.0.6
 
 ### Patch Changes
