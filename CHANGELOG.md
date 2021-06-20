@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 8.0.4
+
+### Patch Changes
+
+- fix: npm run clean
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.5
+
 ## 8.0.3
 
 ### Patch Changes
