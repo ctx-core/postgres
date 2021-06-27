@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 8.0.12
+
+### Patch Changes
+
+- dist directory
+- Updated dependencies [undefined]
+  - @ctx-core/array@22.0.16
+
 ## 8.0.11
 
 ### Patch Changes
