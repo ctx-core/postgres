@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "8.0.14",
+	"version": "8.1.0",
 	"description": "ctx-core postgres",
 	"keywords": [
 		"ctx-core",

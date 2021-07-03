@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 8.1.0
+
+### Minor Changes
+
+- feat: param*a_set_sql*: sql\_ argument for custom rendering
+
 ## 8.0.14
 
 ### Patch Changes
