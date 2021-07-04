@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 8.1.1
+
+### Patch Changes
+
+- fix: param*a_set_sql*: sql\_ argument: i argument is optional
+
 ## 8.1.0
 
 ### Minor Changes
