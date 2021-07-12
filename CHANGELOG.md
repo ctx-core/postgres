@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 8.1.3
+
+### Patch Changes
+
+- update dependencies
+
 ## 8.1.2
 
 ### Patch Changes
