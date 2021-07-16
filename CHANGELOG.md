@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.3
+
 ## 9.0.2
 
 ### Patch Changes
