@@ -1,5 +1,21 @@
 # @ctx-core/postgres
 
+## 9.0.9
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.11
+
+## 9.0.8
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.10
+
 ## 9.0.7
 
 ### Patch Changes
