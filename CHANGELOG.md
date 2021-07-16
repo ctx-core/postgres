@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.7
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.9
+
 ## 9.0.6
 
 ### Patch Changes
