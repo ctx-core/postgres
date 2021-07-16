@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.6
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.8
+
 ## 9.0.5
 
 ### Patch Changes
