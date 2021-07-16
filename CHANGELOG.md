@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.5
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.7
+
 ## 9.0.4
 
 ### Patch Changes
