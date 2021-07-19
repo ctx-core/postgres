@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.10
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/array@23.0.12
+
 ## 9.0.9
 
 ### Patch Changes
