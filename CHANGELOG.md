@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.16
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/array@23.0.23
+
 ## 9.0.15
 
 ### Patch Changes
