@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.26
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+- Updated dependencies
+  - @ctx-core/array@23.0.34
+
 ## 9.0.25
 
 ### Patch Changes
