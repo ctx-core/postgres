@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.28
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/array@23.0.36
+
 ## 9.0.27
 
 ### Patch Changes
