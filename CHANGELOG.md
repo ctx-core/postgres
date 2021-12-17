@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.32
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/array@23.0.40
+
 ## 9.0.31
 
 ### Patch Changes
