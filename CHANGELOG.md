@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.0.31
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+- Updated dependencies
+  - @ctx-core/array@23.0.39
+
 ## 9.0.30
 
 ### Patch Changes
