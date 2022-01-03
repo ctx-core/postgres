@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "9.0.34",
+	"version": "9.0.35",
 	"description": "ctx-core postgres",
 	"keywords": [
 		"ctx-core",
@@ -35,7 +35,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/array": "workspace:^23.1.1"
+		"@ctx-core/array": "workspace:^23.1.2"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
