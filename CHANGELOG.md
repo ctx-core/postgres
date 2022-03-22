@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 9.0.40
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 9.0.39
 
 ### Patch Changes
