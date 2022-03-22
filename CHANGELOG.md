@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 9.1.0
+
+### Minor Changes
+
+- named*param_a*: feat: param_r_cast: cast params as postgres type
+
 ## 9.0.40
 
 ### Patch Changes
