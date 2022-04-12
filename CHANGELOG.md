@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.1.2
+
+### Patch Changes
+
+- fix: @ctx-core/\* dependencies
+- Updated dependencies
+  - @ctx-core/array@26.1.4
+
 ## 9.1.1
 
 ### Patch Changes
