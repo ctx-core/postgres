@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 9.1.9
+
+### Patch Changes
+
+- update dependencies
+
 ## 9.1.8
 
 ### Patch Changes
