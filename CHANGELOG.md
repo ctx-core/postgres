@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 9.1.17
+
+### Patch Changes
+
+- @ctx-core/array: ^26.8.2 -> ^26.8.3
+
 ## 9.1.16
 
 ### Patch Changes
