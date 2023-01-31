@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.1.27
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/array@26.8.13
+
 ## 9.1.26
 
 ### Patch Changes
