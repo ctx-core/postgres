@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 9.2.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 9.1.34
 
 ### Patch Changes
