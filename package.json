@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "9.2.20",
+	"version": "9.2.21",
 	"description": "ctx-core postgres",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.11.19"
+		"@ctx-core/array": "^26.11.20"
 	},
 	"devDependencies": {
 		"c8": "^7.13.0",
