@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.2.52
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/array@26.12.32
+
 ## 9.2.51
 
 ### Patch Changes
