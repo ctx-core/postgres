@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "9.2.77",
+	"version": "9.3.0",
 	"description": "ctx-core postgres",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,15 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./named_param_a_",
+		"./param_a_set_sql_",
+		"./sadd_named_param"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
@@ -33,7 +38,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^26.15.9"
+		"@ctx-core/array": "^27.0.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",

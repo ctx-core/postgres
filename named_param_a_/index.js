@@ -1,6 +1,6 @@
 /**
- * @param param_a{any[]}
- * @param param_r_cast{Record<string, string>}
+ * @param {any[]}param_a
+ * @param {Record<string, string>}param_r_cast
  * @returns {string[]}
  */
 export function named_param_a_(

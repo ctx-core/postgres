@@ -1,7 +1,7 @@
 /**
- * @param param_a{string[]}
- * @param named_param_a{unknown}
- * @param sql_{(param:string, named_param:string, i?:number)=>string}
+ * @param {string[]}param_a
+ * @param {unknown}named_param_a
+ * @param {(param:string, named_param:string, i?:number)=>string}sql_
  * @returns {string}
  */
 export function param_a_set_sql_(

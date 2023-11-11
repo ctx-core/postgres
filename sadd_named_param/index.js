@@ -2,8 +2,8 @@
  * Set Add named param. Returns index of value, which is already in param_a or pushed onto param_a.
  */
 /**
- * @param param_a{unknown[]}
- * @param value{unknown}
+ * @param {unknown[]}param_a
+ * @param {unknown}value
  * @returns {number}
  */
 export function sadd_named_param(param_a, value) {
