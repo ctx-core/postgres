@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.3.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - @ctx-core/array@27.0.2
+
 ## 9.3.1
 
 ### Patch Changes

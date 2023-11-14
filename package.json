@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "9.3.1",
+	"version": "9.3.2",
 	"description": "ctx-core postgres",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./named_param_a_",
 		"./param_a_set_sql_",
 		"./sadd_named_param"
@@ -38,7 +39,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/array": "^27.0.1"
+		"@ctx-core/array": "^27.0.2"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
