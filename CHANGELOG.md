@@ -1,5 +1,13 @@
 # @ctx-core/postgres
 
+## 9.3.25
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+- Updated dependencies
+  - @ctx-core/array@27.0.25
+
 ## 9.3.24
 
 ### Patch Changes
