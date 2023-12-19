@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/postgres",
-	"version": "9.3.55",
+	"version": "9.3.56",
 	"description": "ctx-core postgres",
 	"keywords": [
 		"ctx-core",
@@ -39,9 +39,7 @@
 		"test-unit": "tsx node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
-	"dependencies": {
-		"@ctx-core/array": "^27.1.16"
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"c8": "^8.0.1",
 		"check-dts": "^0.7.2",
