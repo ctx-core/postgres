@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 9.3.57
+
+### Patch Changes
+
+- tsx: ^4.6.2 -> ^4.7.0
+
 ## 9.3.56
 
 ### Patch Changes
