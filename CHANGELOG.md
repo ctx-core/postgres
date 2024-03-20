@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 9.3.59
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 9.3.58
 
 ### Patch Changes
