@@ -1,5 +1,11 @@
 # @ctx-core/postgres
 
+## 9.3.61
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 9.3.60
 
 ### Patch Changes
